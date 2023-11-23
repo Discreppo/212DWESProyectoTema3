@@ -28,12 +28,12 @@
     </head>
     <body>
         <header>
-            <h1>Ejercicio 25</h1>
+            <h1>Ejercicio 27</h1>
         </header>
         <main>
 
             <?php
-            highlight_file('../codigoPHP/ejercicio25.php');
+            highlight_file('../codigoPHP/ejercicio27.php');
             ?>
 
 

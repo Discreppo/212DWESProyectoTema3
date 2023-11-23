@@ -155,6 +155,11 @@
                     <td></td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>27 - Examen formulario.</td>
+                    <td><a href="codigoPHP/ejercicio27.php">Ejecutar</a></td>
+                    <td><a href="mostrarcodigo/muestraEjercicio27.php">Mostrar</a></td>
+                </tr>
             </table>
 
 
@@ -171,7 +176,7 @@
 
         <footer>
             <p><a href="../index.html">Oscar Pascual Ferrero</a></p>
-            <p><a href="indexProyectoTema3.php">Inicio</a> | <a href="https://github.com/discreppo" target="_blank" >GitHub</a></p>
+            <p><a href="indexProyectoTema3.php">Inicio</a> | <a href="https://github.com/Discreppo/212DWESProyectoTema3.git" target="_blank" >GitHub</a></p>
         </footer>
     </body>
 </html>
